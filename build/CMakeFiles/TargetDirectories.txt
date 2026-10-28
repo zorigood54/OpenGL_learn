@@ -1,0 +1,3 @@
+/home/zorigoo/Desktop/opengl/build/CMakeFiles/OpenGL_learn.dir
+/home/zorigoo/Desktop/opengl/build/CMakeFiles/edit_cache.dir
+/home/zorigoo/Desktop/opengl/build/CMakeFiles/rebuild_cache.dir
