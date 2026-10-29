@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/zorigoo/Desktop/opengl/build",
+  "command": "/usr/bin/g++  -I/home/zorigoo/Desktop/opengl/include -g -std=gnu++17 -o CMakeFiles/OpenGL_learn.dir/src/main.cpp.o -c /home/zorigoo/Desktop/opengl/src/main.cpp",
+  "file": "/home/zorigoo/Desktop/opengl/src/main.cpp",
+  "output": "CMakeFiles/OpenGL_learn.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/zorigoo/Desktop/opengl/build",
+  "command": "/usr/bin/gcc  -I/home/zorigoo/Desktop/opengl/include -g -o CMakeFiles/OpenGL_learn.dir/src/glad.c.o -c /home/zorigoo/Desktop/opengl/src/glad.c",
+  "file": "/home/zorigoo/Desktop/opengl/src/glad.c",
+  "output": "CMakeFiles/OpenGL_learn.dir/src/glad.c.o"
+}
+]

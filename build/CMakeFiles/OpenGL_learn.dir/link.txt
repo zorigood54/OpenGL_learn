@@ -1,1 +1,1 @@
-/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/OpenGL_learn.dir/link.d CMakeFiles/OpenGL_learn.dir/src/main.cpp.o CMakeFiles/OpenGL_learn.dir/src/glad.c.o -o OpenGL_learn  /usr/lib64/libglfw.so.3.4 /usr/lib64/libGL.so -lgcc_s_asneeded -lgcc_s_asneeded
+/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/OpenGL_learn.dir/link.d CMakeFiles/OpenGL_learn.dir/src/main.cpp.o CMakeFiles/OpenGL_learn.dir/src/glad.c.o -o OpenGL_learn  /usr/lib64/libglfw.so.3.4 /usr/lib64/libGL.so -lgcc_s_asneeded -lgcc_s_asneeded
